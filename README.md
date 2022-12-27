@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Goyal
-- 👀 I’m interested in Android Apps
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Android Apps in Flutter and Native Kotlin
+- 🌱 I’m currently learning Different State Management and Architecture in Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/4gmayank/
 
