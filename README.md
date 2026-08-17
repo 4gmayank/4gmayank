@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Mayank%20Goyal&fontSize=45&fontAlignY=35&desc=Senior%20Mobile%20%26%20Software%20Engineer&descAlignY=55&descSize=18" />
-</p>
-
 # Hi, I'm Mayank 👋
 
 I'm a **Senior Software Engineer specializing in Mobile Development**, with **7+ years of experience** building production-grade applications across **Flutter and native Android**.
 
 My work focuses on building **scalable, maintainable, high-performance applications** with strong attention to architecture, UI quality, developer experience, and real-world product requirements.
 
-I'm particularly interested in the intersection of **Mobile Development, AI, Developer Productivity, and Backend Engineering** — using modern AI tools and automation to build software faster without compromising engineering quality.
+I'm particularly interested in the intersection of **Mobile Development, AI, Developer Productivity** — using modern AI tools and automation to build software faster without compromising engineering quality.
 
 ## 🔭 What I'm working on
 
@@ -16,7 +12,7 @@ I'm particularly interested in the intersection of **Mobile Development, AI, Dev
 * **Architecture & Scalability:** Clean Architecture, MVVM, MVI, modularization, reusable components, and maintainable codebases
 * **UI Engineering:** Pixel-perfect interfaces, responsive layouts, custom widgets, animations, and performance optimization
 * **AI-assisted Development:** Using ChatGPT, Claude, Claude Code, GitHub Copilot, and AI workflows to accelerate development, debugging, refactoring, and documentation
-* **Backend & Full Stack:** Exploring Spring Boot, Kotlin, REST APIs, PostgreSQL, Docker, and cloud technologies
+* **Backend & Full Stack:** Exploring : Spring Boot, Kotlin, REST APIs, PostgreSQL, Docker, and cloud technologies
 * **AI & Automation:** Exploring LLM integrations, RAG, agentic workflows, AI-powered applications, and developer automation
 
 ## 🛠️ Tech I work with
@@ -46,16 +42,13 @@ I'm particularly interested in the intersection of **Mobile Development, AI, Dev
 
 **Backend & Data:**
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-02569B)
 
 **AI & Developer Tools:**
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai\&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot\&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG-6A5ACD)
 ![LLM](https://img.shields.io/badge/-LLM-412991)
 
 **DevOps & Tools:**
@@ -126,8 +119,7 @@ My goal is to become a **strong end-to-end software engineer** who can take a pr
 ## 📫 Get in touch
 
 * 🌐 [Portfolio](https://4gmayank.github.io/)
-* 💼 [LinkedIn](https://www.linkedin.com/)
-* 🐙 [GitHub](https://github.com/4gmayank)
+* 💼 [LinkedIn](https://www.linkedin.com/4gmayank)
 
 ---
 
